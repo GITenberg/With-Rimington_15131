@@ -1,0 +1,27 @@
+_repo: With-Rimington_15131
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Phillipps, L. March (Lisle March)
+    alias: Phillipps, Lisle March
+    birthdate: 1863
+    deathdate: 1917
+    gutenberg_agent_id: '5873'
+    url: http://www.gutenberg.org/2009/agents/5873
+description: ''
+gutenberg_issued: '2005-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15131'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South African War, 1899-1902 -- Personal narratives'
+- !lcc 'DT'
+title: With Rimington
+url: http://www.gutenberg.org/ebooks/15131
